@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TPT39LnW9E1nlGaUEAF/hR1SrAH14QJ7lgCIwdm6PpdyBd/EJVWtFJvJT2K0hSSU3MJZChJSiMXTFpzmc4fd4w==",
+  "success": true,
+  "projectFilePath": "F:\\Code\\C-Sharp\\BossGame\\BossGame\\BossGame\\BossGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\talal\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\talal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\talal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

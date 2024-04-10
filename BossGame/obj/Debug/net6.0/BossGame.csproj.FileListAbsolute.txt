@@ -1,0 +1,44 @@
+C:\Users\mohiz\source\repos\BossGame\BossGame\obj\Debug\net6.0\BossGame.csproj.AssemblyReference.cache
+C:\Users\mohiz\source\repos\BossGame\BossGame\obj\Debug\net6.0\BossGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohiz\source\repos\BossGame\BossGame\obj\Debug\net6.0\BossGame.AssemblyInfoInputs.cache
+C:\Users\mohiz\source\repos\BossGame\BossGame\obj\Debug\net6.0\BossGame.AssemblyInfo.cs
+C:\Users\mohiz\source\repos\BossGame\BossGame\obj\Debug\net6.0\BossGame.csproj.CoreCompileInputs.cache
+C:\Users\mohiz\source\repos\BossGame\BossGame\bin\Debug\net6.0\BossGame.exe
+C:\Users\mohiz\source\repos\BossGame\BossGame\bin\Debug\net6.0\BossGame.deps.json
+C:\Users\mohiz\source\repos\BossGame\BossGame\bin\Debug\net6.0\BossGame.runtimeconfig.json
+C:\Users\mohiz\source\repos\BossGame\BossGame\bin\Debug\net6.0\BossGame.dll
+C:\Users\mohiz\source\repos\BossGame\BossGame\bin\Debug\net6.0\BossGame.pdb
+C:\Users\mohiz\source\repos\BossGame\BossGame\obj\Debug\net6.0\BossGame.dll
+C:\Users\mohiz\source\repos\BossGame\BossGame\obj\Debug\net6.0\refint\BossGame.dll
+C:\Users\mohiz\source\repos\BossGame\BossGame\obj\Debug\net6.0\BossGame.pdb
+C:\Users\mohiz\source\repos\BossGame\BossGame\obj\Debug\net6.0\BossGame.genruntimeconfig.cache
+C:\Users\mohiz\source\repos\BossGame\BossGame\obj\Debug\net6.0\ref\BossGame.dll
+C:\University\Visual Programming\BossGame\BossGame\BossGame\bin\Debug\net6.0\BossGame.exe
+C:\University\Visual Programming\BossGame\BossGame\BossGame\bin\Debug\net6.0\BossGame.deps.json
+C:\University\Visual Programming\BossGame\BossGame\BossGame\bin\Debug\net6.0\BossGame.runtimeconfig.json
+C:\University\Visual Programming\BossGame\BossGame\BossGame\bin\Debug\net6.0\BossGame.dll
+C:\University\Visual Programming\BossGame\BossGame\BossGame\bin\Debug\net6.0\BossGame.pdb
+C:\University\Visual Programming\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.csproj.AssemblyReference.cache
+C:\University\Visual Programming\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\Visual Programming\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.AssemblyInfoInputs.cache
+C:\University\Visual Programming\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.AssemblyInfo.cs
+C:\University\Visual Programming\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.csproj.CoreCompileInputs.cache
+C:\University\Visual Programming\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.dll
+C:\University\Visual Programming\BossGame\BossGame\BossGame\obj\Debug\net6.0\refint\BossGame.dll
+C:\University\Visual Programming\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.pdb
+C:\University\Visual Programming\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.genruntimeconfig.cache
+C:\University\Visual Programming\BossGame\BossGame\BossGame\obj\Debug\net6.0\ref\BossGame.dll
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\bin\Debug\net6.0\BossGame.exe
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\bin\Debug\net6.0\BossGame.deps.json
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\bin\Debug\net6.0\BossGame.runtimeconfig.json
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\bin\Debug\net6.0\BossGame.dll
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\bin\Debug\net6.0\BossGame.pdb
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.AssemblyInfoInputs.cache
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.AssemblyInfo.cs
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.csproj.CoreCompileInputs.cache
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.dll
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\obj\Debug\net6.0\refint\BossGame.dll
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.pdb
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\obj\Debug\net6.0\BossGame.genruntimeconfig.cache
+F:\Code\C-Sharp\BossGame\BossGame\BossGame\obj\Debug\net6.0\ref\BossGame.dll
